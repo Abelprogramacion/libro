@@ -1,3 +1,15 @@
 body{ background-color: bisque;}
 .ejemplo {text-align: left; color: blue; font-family: Georgia, 'Times New Roman', Times, serif;}
-footer img{height="50px" width=" 50px";}
+.pie{height: 50px; width: 50px;}
+.color{color: blueviolet;}
+h1{text-align: center;}
+.contenido{font-size: larger;
+    color: green;
+    border-bottom: 1rem dotted rgb(83, 42, 233);
+    border-top: 1rem dotted rgb(83, 42, 233);
+    border-left: 1rem dotted rgb(83, 42, 233);
+    border-right: 1rem dotted rgb(83, 42, 233);
+}
+.contenido1{text-align: center; font-size: larger;}
+.ul{list-style: none;;}
+li::before{content:"\058D"; color: rgb(140, 168, 73);}
